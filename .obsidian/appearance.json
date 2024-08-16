@@ -1,0 +1,15 @@
+{
+  "accentColor": "#68d7f3",
+  "interfaceFontFamily": "JetBrains Mono,Arial",
+  "baseFontSize": 17,
+  "theme": "moonstone",
+  "cssTheme": "Maple",
+  "textFontFamily": "JetBrains Mono,Arial",
+  "monospaceFontFamily": "JetBrains Mono,Arial",
+  "enabledCssSnippets": [
+    "段落首行缩进",
+    "预览模式优化-空白行-行间距",
+    "yaozhuwa@CSS"
+  ],
+  "translucency": false
+}
