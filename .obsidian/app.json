@@ -1,0 +1,23 @@
+{
+  "promptDelete": false,
+  "attachmentFolderPath": "img",
+  "trashOption": "local",
+  "livePreview": false,
+  "showInlineTitle": true,
+  "showUnsupportedFiles": true,
+  "newFileLocation": "current",
+  "newFileFolderPath": "JavaWeb",
+  "readableLineLength": false,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 100
+  },
+  "alwaysUpdateLinks": true,
+  "strictLineBreaks": false,
+  "autoConvertHtml": false,
+  "showIndentGuide": true,
+  "smartIndentList": true
+}

@@ -1,0 +1,11 @@
+{
+  "accentColor": "#4c93f0",
+  "interfaceFontFamily": "JetBrains Mono,Arial",
+  "baseFontSize": 17,
+  "theme": "moonstone",
+  "cssTheme": "Maple",
+  "textFontFamily": "JetBrains Mono,Arial",
+  "monospaceFontFamily": "JetBrains Mono,Arial",
+  "enabledCssSnippets": [],
+  "translucency": false
+}

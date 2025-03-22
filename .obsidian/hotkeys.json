@@ -1,0 +1,114 @@
+{
+  "slides:start": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ],
+  "theme:use-dark": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "B"
+    }
+  ],
+  "theme:use-light": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "L"
+    }
+  ],
+  "markdown-table-editor:markdown-table-editor-open-horizontal": [],
+  "obsidian-table-generator:create-table-genertator": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "C"
+    }
+  ],
+  "markdown-table-editor:markdown-table-editor-open-vertical": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "T"
+    }
+  ],
+  "editor:save-file": [],
+  "editor:insert-link": [],
+  "editor:toggle-bold": [],
+  "editor:toggle-checklist-status": [],
+  "editor:set-heading-1": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "1"
+    }
+  ],
+  "editor:set-heading-2": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "2"
+    }
+  ],
+  "editor:set-heading-3": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "3"
+    }
+  ],
+  "editor:set-heading-4": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "4"
+    }
+  ],
+  "editor:set-heading-5": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "5"
+    }
+  ],
+  "editor:set-heading-6": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "6"
+    }
+  ],
+  "workspace:new-tab": [],
+  "file-explorer:new-file-in-new-pane": [],
+  "workspace:next-tab": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "PageDown"
+    }
+  ],
+  "easy-typing-obsidian:easy-typing-delete-blank-line": [],
+  "editor:insert-codeblock": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "K"
+    }
+  ]
+}
