@@ -48,3 +48,5 @@ Set-PSReadLineKeyHandler -Key DownArrow -Function HistorySearchForward # 设置�
 ```json
 "terminal.integrated.fontFamily": "MesloLGS Nerd Font"
 ```
+禁用更新提示
+![[Pasted image 20250514234159.png]]

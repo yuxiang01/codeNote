@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2147bd195c970413",
+        "id": "57aeea847d90bb4c",
         "type": "tabs",
         "children": [
           {
-            "id": "5fda8e9a2fc8c541",
+            "id": "ef39a1e13f30483a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "必备技术栈/Git.md",
+                "file": "Vue/学习Electron.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git"
+              "title": "学习Electron"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "必备技术栈/Git.md",
+                "file": "Vue/学习Electron.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Git 的大纲"
+              "title": "学习Electron 的大纲"
             }
           },
           {
@@ -170,7 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 373.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,46 +183,45 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "5fda8e9a2fc8c541",
+  "active": "ef39a1e13f30483a",
   "lastOpenFiles": [
     "window 自定义终端.md",
-    "img/Pasted image 20250322165434.png",
-    "img/Pasted image 20250322165028.png",
     "README.md",
-    "new diagram.svg",
-    "Mybatis笔记.md",
-    "开发问题记录.md",
-    "标注块大全.md",
-    "Vue/TypeScript.md",
-    "Vue/Vue3.md",
-    "Vue/Ts_Vue3_CMS项目.md",
-    "Vue/学习Vue3.md",
     "Vue/学习Electron.md",
+    "img/Pasted image 20250515223005.png",
+    "img/Pasted image 20250515001953.png",
+    "img/Pasted image 20250514234159.png",
     "Vue/旅行项目.md",
-    "skill/《Head Frist》设计模式.md",
-    "img/Pasted image 20250314004236.png",
-    "draw/Drawing 2025-03-14 00.32.18.excalidraw.md",
+    "img/1652941631682.png",
+    "img/16460487624094.jpg",
+    "img/导航的整个流程解析.png",
+    "img/四端业务流.png",
+    "img/a107edb4e65884150a6c735c96f0b122.png",
     "img/Pasted image 20250314002622.png",
-    "必备技术栈/Git.md",
-    "必备技术栈/Docker.md",
+    "img/Pasted image 20250323232704.png",
+    "draw/版本控制.excalidraw.md",
+    "draw/ioc开发模式与传统方式对比.excalidraw.md",
+    "draw/Drawing 2025-03-14 00.32.18.excalidraw.md",
+    "code/jdbcTemplate.md",
+    "code/Declarative transaction.md",
     "嵌入式开发/C语言.md",
     "canvas/Spring 管理 Bean-IOC.canvas",
-    "diagram/网络连通.svg",
-    "diagram/Docker hello-world.svg",
+    "Vue/学习Vue3.md",
+    "Vue/Ts_Vue3_CMS项目.md",
+    "Vue/TypeScript.md",
+    "Vue/Vue3.md",
+    "标注块大全.md",
+    "开发问题记录.md",
+    "Mybatis笔记.md",
+    "必备技术栈/Git.md",
+    "code/Git 常用命令.md",
+    "skill/《Head Frist》设计模式.md",
+    "必备技术栈/Docker.md",
     "draw/vue3-父子组件传参.excalidraw.md",
     "draw/传统项目资源部署.excalidraw.md",
-    "draw/版本控制.excalidraw.md",
-    "media/16629433472925/16629467222452.png",
     "React/React 通关秘籍.md",
     "Java/Java基础学习.md",
-    "code/Git 常用命令.md",
-    "img/Pasted image 20240817001123.png",
-    "Spring/SpringBoot.md",
-    "Spring/SpringCloud.md",
-    "SQL/Oracle.md",
-    "img/Pasted image 20240424172257.png",
     "React",
-    "code/spring Initial experience.md",
     "嵌入式开发",
     "SQL"
   ]

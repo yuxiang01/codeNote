@@ -1,12 +1,12 @@
 {
 	"nodes":[
-		{"id":"74df7bc62d677d1b","x":552,"y":-190,"width":201,"height":55,"color":"5","type":"text","text":"2.给bean注入属性"},
-		{"id":"d06cf637e7b48377","x":552,"y":-280,"width":201,"height":60,"color":"5","type":"text","text":"1.创建 bean 对象"},
-		{"id":"67614b5c1e2add70","x":225,"y":-220,"width":272,"height":50,"color":"5","type":"text","text":"1.Bean 管理包括两方面"},
-		{"id":"1056c1595265671d","x":-83,"y":-135,"width":250,"height":65,"type":"text","text":"Spring 管理 Bean-IOC"},
-		{"id":"5f4b4105e550615e","x":479,"y":-10,"width":183,"height":60,"color":"3","type":"text","text":"2.基于注解方式"},
-		{"id":"7243e5ce3732c8b3","x":479,"y":-100,"width":241,"height":60,"color":"3","type":"text","text":"1.基于xml文件配置方式"},
-		{"id":"cd324171bd333bb3","x":225,"y":-55,"width":210,"height":60,"color":"3","type":"text","text":"2.Bean 配置方式"}
+		{"id":"74df7bc62d677d1b","type":"text","text":"2.给bean注入属性","x":552,"y":-190,"width":201,"height":55,"color":"5"},
+		{"id":"d06cf637e7b48377","type":"text","text":"1.创建 bean 对象","x":552,"y":-280,"width":201,"height":60,"color":"5"},
+		{"id":"1056c1595265671d","type":"text","text":"Spring 管理 Bean-IOC","x":-83,"y":-135,"width":250,"height":65},
+		{"id":"5f4b4105e550615e","type":"text","text":"2.基于注解方式","x":479,"y":-10,"width":183,"height":60,"color":"3"},
+		{"id":"7243e5ce3732c8b3","type":"text","text":"1.基于xml文件配置方式","x":479,"y":-100,"width":241,"height":60,"color":"3"},
+		{"id":"cd324171bd333bb3","type":"text","text":"2.Bean 配置方式","x":225,"y":-55,"width":210,"height":60,"color":"3"},
+		{"id":"67614b5c1e2add70","type":"text","text":"1.Bean 管理包括两方面","x":225,"y":-220,"width":272,"height":50,"color":"5"}
 	],
 	"edges":[
 		{"id":"8a02208c190aa6eb","fromNode":"cd324171bd333bb3","fromSide":"right","toNode":"7243e5ce3732c8b3","toSide":"left","color":"3"},
